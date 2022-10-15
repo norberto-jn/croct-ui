@@ -1,0 +1,15 @@
+.l_section_home {
+
+    background-color: #F6F7F8;
+
+    .c_item_filters_btn {
+        border: none;
+        background: #4247d9;
+        color: #fff;
+    }
+
+    .c_item_filters_btn::before {
+        background: #3237b5;
+    }
+
+}
